@@ -1,3 +1,7 @@
+#Basics of GIT
+
+* Hot fix
+
 ## Author(s) Info
 
 **Lawrence Otieno**: Fullstack developer.
